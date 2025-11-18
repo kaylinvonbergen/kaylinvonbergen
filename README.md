@@ -1,22 +1,5 @@
-## Hi there 👋
-
-<!--
-**kaylinvonbergen/kaylinvonbergen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
-
-### 💬 Hi! My name is Kaylin
-I am a senior studying computer science at Bosotn University, set to graduate in May 2026!
+### 💬 Hi! My name is Kaylin :)
+I am a senior studying computer science at Bosotn University, set to graduate in May 2026! I use she/her pronouns.
 
 ---
 
@@ -32,7 +15,7 @@ I am interested in software/full-stack development in the public interest/civic 
 ### Project Management
 - 100-page data report for local affordable housing lottery organization to make improvements to the application process; used Pandas and ArcGIS  
 - Multi-repo debug and upgrade process of an open-source biodiversity platform (Symbiota)  
-- Design (Figma) and development (NextJS) of a microcredentialing and microlearning platform for hands-on skills  
+- Design (Figma) and development (NextJS) of a microcredentialing and microlearning platform, Checkd, for hands-on skills  
 
 ### Mobile Development
 - Check out the SyncSonic project with React Native and SQLite!
