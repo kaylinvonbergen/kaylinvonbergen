@@ -4,7 +4,7 @@ I am a senior studying computer science at Boston University, set to graduate in
 ---
 
 ## 💡 Interests & Experience
-I am interested in software/full-stack development in the public interest/civic tech sector, and have experience in:
+I am interested in software/full-stack development/product management in the public interest/civic tech sector, and have experience in:
 
 ### Full-Stack & Public Interest Work
 - Developing a full-stack public records database with the ACLU of Massachussets using:
