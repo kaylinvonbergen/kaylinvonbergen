@@ -1,5 +1,5 @@
 ### 💬 Hi! My name is Kaylin :)
-I am a senior studying computer science at Bosotn University, set to graduate in May 2026! I use she/her pronouns.
+I am a senior studying computer science at Boston University, set to graduate in May 2026! I use she/her pronouns.
 
 ---
 
