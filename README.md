@@ -1,10 +1,10 @@
 ### 💬 Hi! My name is Kaylin :)
-I am a senior studying computer science at Boston University, set to graduate in May 2026! I use she/her pronouns.
+I am a Boston University '26 graduate in computer science working at BU Spark! as a Post-Baccalaureate Fellow / Program Lead! I use she/her pronouns.
 
 ---
 
 ## 💡 Interests & Experience
-I am interested in software/full-stack development/product management in the public interest/civic tech sector, and have experience in:
+I am interested in product management/software/full-stack development in the public interest/civic tech sector, and have experience in:
 
 ### Full-Stack & Public Interest Work
 - Developing a full-stack public records database with the ACLU of Massachussets using:
