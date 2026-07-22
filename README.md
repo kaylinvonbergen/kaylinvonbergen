@@ -18,7 +18,7 @@ I am interested in product management/software/full-stack development in the pub
 ### Project Management
 - 100-page data report for local affordable housing lottery organization to make improvements to the application process; used Pandas and ArcGIS  
 - Multi-repo debug and upgrade process of an open-source biodiversity platform (Symbiota)  
-- Design (Figma), development (NextJS), and deployment (Railway) of a microcredentialing and microlearning platform, [Checkd](checkd.cloud), for hands-on skills
+- Design (Figma), development (NextJS), and deployment (Railway) of a microcredentialing and microlearning platform, [Checkd](https://checkd.cloud), for hands-on skills
 - Design (Figma) and development (NextJS) of a pre-lecture learning platform, APLL.
 
 
