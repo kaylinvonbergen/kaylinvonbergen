@@ -33,10 +33,10 @@ I am interested in product management/software/full-stack development in the pub
 Java · Python · ReactJS · NextJS · Dart · SQL · REST APIs · Node.js · Express.js · Electron.js · Android Studio · Kotlin · Railway · Figma
 
 **Educational/coursework experience:**  
-C · XML · OCaml · MongoDB · Flask · AI development · Docker  
+C · XML · OCaml · MongoDB · Flask · AI development · Docker · Go
 
 **Tinkering experience:**  
-C# · R · ArcGIS · Pandas · Unity Game Engine · UI/UX design in Figma
+C# · R · ArcGIS · Pandas · Unity Game Engine 
 
 ---
 
